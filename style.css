@@ -39,3 +39,8 @@ body {
     flex: 1;
     display: flex;
 }
+
+.sidebar {
+    flex-shrink: 0;
+    padding: 16px;
+}
